@@ -7,28 +7,6 @@ This repo provides production-grade React Flow implementations, advanced layouts
 
 <img width="1246" height="762" alt="React flow EXamples - visualflow.dev" src="https://github.com/user-attachments/assets/519c3b5f-1e6a-49f5-b71d-23b990772d1b" />
 
-
-\<p align="center">
-&#x20; \<strong>Build powerful visual applications with React Flow.\</strong>
-&#x20; \<br />
-&#x20; Explore interactive diagrams, workflow automation builders, node-based editors, and production-ready React Flow examples.
-\</p>
-
-\<p align="center">
-&#x20; \<a href="[https://www.visualflow.dev](https://www.visualflow.dev)">Website\</a> •
-&#x20; \<a href="#examples--templates">Examples\</a> •
-&#x20; \<a href="#features">Features\</a> •
-&#x20; \<a href="#getting-started">Getting Started\</a> •
-&#x20; \<a href="#documentation">Documentation\</a>
-\</p>
-
-\<p align="center">
-&#x20; \<img src="[https://img.shields.io/badge/React-Flow-61DAFB?logo=react&logoColor=black](https://img.shields.io/badge/React-Flow-61DAFB?logo=react\&logoColor=black)" alt="React Flow" />
-&#x20; \<img src="[https://img.shields.io/badge/TypeScript-Supported-3178C6?logo=typescript&logoColor=white](https://img.shields.io/badge/TypeScript-Supported-3178C6?logo=typescript\&logoColor=white)" alt="TypeScript" />
-&#x20; \<img src="[https://img.shields.io/badge/License-MIT-green](https://img.shields.io/badge/License-MIT-green)" alt="License" />
-&#x20; \<img src="[https://img.shields.io/badge/Powered%20by-VisualFlow-blueviolet](https://img.shields.io/badge/Powered%20by-VisualFlow-blueviolet)" alt="VisualFlow" />
-\</p>
-
 ---
 
 ## 🚀 About This Repository
