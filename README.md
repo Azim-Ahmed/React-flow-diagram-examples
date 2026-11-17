@@ -88,6 +88,73 @@ Serpentine Diagram Studio is a powerful, interactive data visualization applicat
 - **Technologies:** React, TypeScript, @xyflow/react
 - **Live Demo:** [View Example](https://explore.visualflow.dev/examples/react-flow-serpentine-diagram-a-better-way-to-visualize-complex-data-timelines-and-workflows/)
 - **Source Code:** [View Source](https://www.visualflow.dev/pricing)
+---
+
+## 3. React Flow Force Directed Tree Simulator ~ Visualizing Complex Relationships
+
+Visualize complex relationships between data points using dynamic force-directed graphs. Build interactive tree structures, explore connected networks, and organize hierarchical data with physics-based node positioning and customizable simulation controls.
+
+### React Flow Force Directed Tree Simulator
+
+<img width="1326" height="750" alt="Screenshot 2026-11-17 at 2 25 25 PM" src="https://github.com/user-attachments/assets/56242785-bd70-4dcb-b771-670620a6b70a" />
+
+
+Force Directed Tree Simulator is a powerful, interactive graph visualization application built with React Flow and D3.js. It allows users to generate dynamic network graphs, explore hierarchical relationships, adjust simulation forces, and manage complex data structures using expandable nodes and physics-based layouts.
+
+- **Category:** Interactive Data Visualization
+- **Technologies:** React, TypeScript, React Flow, D3.js
+- **Live Demo:** [View Example](https://explore.visualflow.dev/examples/re
+act-flow-force-directed-tree-simulator)
+- **Source Code:** [View Source](https://www.visualflow.dev/pricing)
+---
+
+## 4. React Flow Excalidraw Sketchboard ~ Bringing Ideas to Life
+
+Create beautiful, hand-drawn diagrams and visual workspaces. Sketch ideas, organize thoughts, connect concepts, and build interactive whiteboards using customizable shapes, annotations, sticky notes, and freeform drawing tools.
+
+### React Flow Excalidraw Sketchboard
+
+<img width="1318" height="748" alt="Screenshot 2026-11-17 at 2 30 08 PM" src="https://github.com/user-attachments/assets/18464ae3-eea2-49bc-9c91-589ce6778483" />
+
+Excalidraw Sketchboard is a creative, interactive visual workspace built with React Flow. It combines a hand-drawn design aesthetic with powerful canvas interactions, allowing users to create sketches, brainstorm ideas, design wireframes, build diagrams, and organize visual notes using customizable shapes, text elements, arrows, and drawing tools.
+
+- **Category:** Interactive Applications
+- **Technologies:** React, TypeScript, React Flow
+- **Live Demo:** [View Example](https://explore.visualflow.dev/examples/react-flow-excalidraw-sketchboard-build-beautiful-hand-drawn-visual-workspaces)
+- **Source Code:** [View Source](https://www.visualflow.dev/pricing)
+---
+
+## 5. React Flow Kanban Board ~ Managing Tasks Visually
+
+Organize projects, track tasks, and manage team workflows through an interactive Kanban board. Visually manage project stages, prioritize tasks, and streamline productivity with customizable columns and draggable task cards.
+
+### React Flow Kanban Board
+
+<img width="1508" height="751" alt="React Flow Kanban Board" src="ADD_GITHUB_IMAGE_URL_HERE" />
+
+Kanban Board is an interactive task management application built with React Flow. It allows users to create and manage project boards, organize tasks into customizable workflow stages, move task cards through drag-and-drop interactions, and monitor project progress using a flexible, canvas-based workspace.
+
+- **Category:** Project Management & Productivity
+- **Technologies:** React, TypeScript, React Flow
+- **Live Demo:** [View Example](https://explore.visualflow.dev/examples/react-flow-kanban-board-build-a-visual-task-management-workflow)
+- **Source Code:** [View Source](https://www.visualflow.dev/pricing)
+---
+
+## 6. React Flow E-Render ~ Building Advanced Visual Geometry Workflows
+
+Build advanced geometry workflows using a powerful node-based visual programming environment. Connect geometry operations, create procedural pipelines, and explore complex rendering systems through an interactive visual editor.
+
+### React Flow E-Render
+
+<img width="1508" height="751" alt="React Flow E-Render" src="ADD_GITHUB_IMAGE_URL_HERE" />
+
+E-Render is an advanced visual geometry workflow application built with React Flow. It allows users to create procedural geometry pipelines, connect reusable operation blocks, manipulate curves and meshes, and build complex visual programming workflows. Its virtual rendering architecture is designed to support large-scale diagrams with thousands of nodes while maintaining smooth canvas interactions.
+
+- **Category:** Interactive Applications & Visual Programming
+- **Technologies:** React, TypeScript, React Flow, WebGL, Canvas API
+- **Live Demo:** [View Example](https://explore.visualflow.dev/examples/react-flow-e-render-build-advanced-visual-geometry-workflows-with-visualflow)
+- **Source Code:** [View Source](https://www.visualflow.dev/pricing)
+---
 
 ### Klaviyo Flow Builder
 
@@ -100,7 +167,7 @@ Explore a visual email marketing automation builder inspired by modern customer 
 
 ---
 
-## 2. AI & Visual Programming
+## 7. AI & Visual Programming
 
 Create visual interfaces for AI agents, connected tools, and intelligent automation pipelines.
 
