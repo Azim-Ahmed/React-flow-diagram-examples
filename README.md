@@ -5,9 +5,8 @@ A curated collection of advanced, real-world ReactFlow examples used for automat
 This repo provides production-grade React Flow implementations, advanced layouts (ELK.js, Dagre), automation builders, JSON‑based node rendering, conditional routing, and enterprise‑level UI patterns.
 # React Flow Examples & Templates – Interactive Diagrams, Workflow Builders & Visual Editors
 
-\<p align="center">
-&#x20; \<img src="public/visualflow-banner.png" alt="VisualFlow - React Flow Examples, Templates and Interactive Workflow Builders" width="100%" />
-\</p>
+<img width="1246" height="762" alt="React flow EXamples - visualflow.dev" src="https://github.com/user-attachments/assets/519c3b5f-1e6a-49f5-b71d-23b990772d1b" />
+
 
 \<p align="center">
 &#x20; \<strong>Build powerful visual applications with React Flow.\</strong>
