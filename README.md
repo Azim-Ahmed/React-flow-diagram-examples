@@ -123,40 +123,7 @@ Excalidraw Sketchboard is a creative, interactive visual workspace built with Re
 - **Source Code:** [View Source](https://www.visualflow.dev/pricing)
 ---
 
-## 5. React Flow Kanban Board ~ Managing Tasks Visually
-
-Organize projects, track tasks, and manage team workflows through an interactive Kanban board. Visually manage project stages, prioritize tasks, and streamline productivity with customizable columns and draggable task cards.
-
-### React Flow Kanban Board
-
-<img width="1316" height="750" alt="Screenshot 2026-11-17 at 11 51 24 PM" src="https://github.com/user-attachments/assets/b9cf52ed-d838-4fcf-8458-b647eb90c6e7" />
-
-Kanban Board is an interactive task management application built with React Flow. It allows users to create and manage project boards, organize tasks into customizable workflow stages, move task cards through drag-and-drop interactions, and monitor project progress using a flexible, canvas-based workspace.
-
-- **Category:** Project Management & Productivity
-- **Technologies:** React, TypeScript, React Flow
-- **Live Demo:** [View Example](https://explore.visualflow.dev/examples/react-flow-kanban-board-build-a-visual-task-management-workflow)
-- **Source Code:** [View Source](https://www.visualflow.dev/pricing)
----
-
-## 6. React Flow E-Render ~ Building Advanced Visual Geometry Workflows
-
-Build advanced geometry workflows using a powerful node-based visual programming environment. Connect geometry operations, create procedural pipelines, and explore complex rendering systems through an interactive visual editor.
-
-### React Flow E-Render
-
-<img width="1427" height="821" alt="Screenshot 2026-11-17 at 11 59 59 PM" src="https://github.com/user-attachments/assets/012c2dfc-c4db-4efe-8d64-090d514128a4" />
-
-E-Render is an advanced visual geometry workflow application built with React Flow. It allows users to create procedural geometry pipelines, connect reusable operation blocks, manipulate curves and meshes, and build complex visual programming workflows. Its virtual rendering architecture is designed to support large-scale diagrams with thousands of nodes while maintaining smooth canvas interactions.
-
-- **Category:** Interactive Applications & Visual Programming
-- **Technologies:** React, TypeScript, React Flow, WebGL, Canvas API
-- **Live Demo:** [View Example](https://explore.visualflow.dev/examples/react-flow-e-render-build-advanced-visual-geometry-workflows-with-visualflow)
-- **Source Code:** [View Source](https://www.visualflow.dev/pricing)
----
-
-
-## 7. React Flow JSON Flow Delta ~ Visualizing Complex JSON Structures
+## 5. React Flow JSON Flow Delta ~ Visualizing Complex JSON Structures
 
 Transform deeply nested JSON data into interactive visual diagrams. Explore complex data structures, understand hierarchical relationships, and simplify JSON debugging with automatically generated node-based visualizations.
 
@@ -170,6 +137,16 @@ JSON Flow Delta is a powerful, interactive JSON visualization application built 
 - **Technologies:** React, TypeScript, React Flow, Tailwind CSS
 - **Live Demo:** [View Example](https://json-flow-delta.vercel.app/)
 - **Source Code:** [View Source](https://www.visualflow.dev/paid-examples/json-flow-delta)
+
+
+
+
+
+
+<img width="1313" height="746" alt="Screenshot 2026-11-18 at 12 49 51 AM" src="https://github.com/user-attachments/assets/12eaccf6-bd1a-407c-b95b-a26e16215afd" />
+
+
+
 
 ### Klaviyo Flow Builder
 
