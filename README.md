@@ -75,11 +75,21 @@ Floor Planner Studio is a powerful, interactive floor planning application built
 
 ---
 
-### Klaviyo Flow Builder
+## 2. React Flow Serpentine Diagram
+Visually organize complex information using a serpentine diagram. Create interactive timelines, connect sequential processes, and manage multiple milestones through an efficient, snake-like layout that alternates between rows.
 
-<p align="center">
-<img src="images/examples/klaviyo-flow-builder.png" alt="Klaviyo Style React Flow Email Marketing Automation Builder" width="100%" />
-</p>
+### React Flow Serpentine Diagram
+
+<img width="1315" height="725" alt="Screenshot 2026-11-17 at 1 28 10 PM" src="https://github.com/user-attachments/assets/1cdd924b-deaa-4412-8e59-2be46623a3c5" />
+
+Serpentine Diagram Studio is a powerful, interactive data visualization application built with React Flow. It allows users to create structured timelines, visualize business processes, organize project milestones, and represent complex sequential information using alternating horizontal rows, customizable nodes, and connected edges.
+
+- **Category:** Interactive Data Visualization
+- **Technologies:** React, TypeScript, @xyflow/react
+- **Live Demo:** [View Example](https://explore.visualflow.dev/examples/react-flow-serpentine-diagram-a-better-way-to-visualize-complex-data-timelines-and-workflows/)
+- **Source Code:** [View Source](https://www.visualflow.dev/pricing)
+
+### Klaviyo Flow Builder
 
 Explore a visual email marketing automation builder inspired by modern customer engagement platforms. Design triggers, conditions, delays, and personalized customer communication flows.
 
