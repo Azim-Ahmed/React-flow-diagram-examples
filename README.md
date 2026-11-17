@@ -77,9 +77,9 @@ Floor Planner Studio is a powerful, interactive floor planning application built
 
 ### Klaviyo Flow Builder
 
-\<p align="center">
-&#x20; \<img src="images/examples/klaviyo-flow-builder.png" alt="Klaviyo Style React Flow Email Marketing Automation Builder" width="100%" />
-\</p>
+<p align="center">
+<img src="images/examples/klaviyo-flow-builder.png" alt="Klaviyo Style React Flow Email Marketing Automation Builder" width="100%" />
+</p>
 
 Explore a visual email marketing automation builder inspired by modern customer engagement platforms. Design triggers, conditions, delays, and personalized customer communication flows.
 
