@@ -46,22 +46,32 @@ Explore different types of React Flow applications, diagrams, workflow builders,
 
 Each example includes a preview image, a short description, a live demo, and source code or documentation where available.
 
-\<!-- EXAMPLE GALLERY INSTRUCTIONS  For every new example: 1. Add a preview image inside the images/examples/ directory. 2. Use a descriptive image filename. 3. Add a short, clear description. 4. Include the live demo URL. 5. Include the source code or documentation URL. 6. Add relevant technology and category information.  Recommended image dimensions: 1200 × 675 pixels (16:9). -->
+## Add Your Example here with these instruction and Give a PR 
 
-## 1. Workflow Builders & Automation
+ EXAMPLE GALLERY INSTRUCTIONS  For every new example.
+ 1. Add a preview image inside the images/examples/ directory. 
+ 2. Use a descriptive image filename. 
+ 3. Add a short, clear description. 
+ 4. Include the live demo URL. 
+ 5. Include the source code or documentation URL. 
+ 6. Add relevant technology and category information.  
+ Recommended image dimensions: 1200 × 675 pixels (16:9).
 
-Visual workflow editors for designing automation pipelines, connecting processes, and managing complex operations.
+## 1. React Flow Floor Planner ~ Planning your dream house
 
-### Marketing Automation Workflow
+Visually design your floor of your house.Floor Planner editors for designing,  connecting processes, and managing complex unexpected issues.
 
-\<p align="center">   \<img src="images/examples/marketing-automation-workflow\.png" alt="React Flow Marketing Automation Workflow Builder" width="100%" /> \</p>
+### React Flow Floor Planner
 
-Build interactive marketing automation workflows with connected nodes, conditional logic, triggers, and automated actions. Ideal for email marketing, customer journeys, and campaign management.
+<img width="1508" height="751" alt="image" src="https://github.com/user-attachments/assets/2e898744-b631-4e8e-97bf-c6406bddd708" />
 
-- **Category:** Workflow Automation
+
+Floor Planner Studio is a powerful, interactive floor planning application built with React Flow. It allows users to design houses, apartments, offices, and interior spaces using drag-and-drop furniture, architectural components, and customizable floor plan elements.
+
+- **Category:** Interactive Software
 - **Technologies:** React, TypeScript, React Flow
-- **Live Demo:** [View Example](YOUR_LIVE_DEMO_URL)
-- **Source Code:** [View Source](YOUR_SOURCE_CODE_URL)
+- **Live Demo:** [View Example](https://floorplanner.visualflow.dev/)
+- **Source Code:** [View Source](https://www.visualflow.dev/pricing)
 
 ---
 
