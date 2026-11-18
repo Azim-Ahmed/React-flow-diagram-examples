@@ -195,24 +195,21 @@ Transform complex hierarchical data into interactive circular visualizations. Ex
 
 ---
 
-## 8. AI & Visual Programming
+## 10. React Flow BPMN Editor – Business Process Modeling
 
-Create visual interfaces for AI agents, connected tools, and intelligent automation pipelines.
+<img width="1320" height="721" alt="Screenshot 2026-11-18 at 2 11 33 PM" src="https://github.com/user-attachments/assets/3583b632-8f0a-4e7d-905f-c22274b66327" />
 
-### Langflow Builder – AI Agent Workflow Editor
+Design professional Business Process Model and Notation (BPMN) diagrams using an interactive React Flow editor. Model business processes, connect tasks, define gateways, and visualize complex operational workflows with a flexible diagramming interface.
 
-\<p align="center">
-&#x20; \<img src="images/examples/langflow-builder.png" alt="React Flow Langflow Inspired Visual AI Agent Builder" width="100%" />
-\</p>
-
-Build AI workflows visually using connected components, model nodes, prompts, tools, and processing pipelines. An example of how React Flow can power visual AI application builders.
-
-- **Category:** AI Workflow Builder
+- **Category:** Business Process Modeling & Diagram Editor
 - **Technologies:** React, TypeScript, React Flow
-- **Live Demo:** [View Example](YOUR_LIVE_DEMO_URL)
-- **Source Code:** [View Source](YOUR_SOURCE_CODE_URL)
+- **Live Demo:** [Explore BPMN Editor](https://explore.visualflow.dev/examples/react-flow-bpmn-build-professional-business-process-diagrams-with-an-interactive-editor)
+- **Source Code:** [View Source](https://www.visualflow.dev/pricing)
 
 ---
+
+
+
 
 ## 3. Diagrams & Data Visualization
 
