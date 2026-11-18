@@ -154,18 +154,35 @@ Radial Cluster tree editor is a powerful, interactive JSON visualization applica
 - **Live Demo:** [View Example](https://radialcluster.visualflow.dev)
 - **Source Code:** [View Source](https://www.visualflow.dev/pricing)
 
-### Klaviyo Flow Builder
+---
 
-Explore a visual email marketing automation builder inspired by modern customer engagement platforms. Design triggers, conditions, delays, and personalized customer communication flows.
+## 7. React Flow Cosmic Explorer – Star & Constellation Explorer
 
-- **Category:** Marketing Automation
+<img width="1427" height="809" alt="Screenshot 2026-11-18 at 2 01 26 PM" src="https://github.com/user-attachments/assets/fd75120f-d52d-421f-938f-414c680b475b" />
+
+Explore the universe through an interactive star and constellation explorer powered by React Flow. Visualize celestial objects, discover star connections, and navigate astronomical relationships through an interactive canvas.
+
+- **Category:** Astronomy & Data Visualization
 - **Technologies:** React, TypeScript, React Flow
-- **Live Demo:** [View Example](YOUR_LIVE_DEMO_URL)
-- **Source Code:** [View Source](YOUR_SOURCE_CODE_URL)
+- **Live Demo:** [Explore Cosmic Explorer](https://explore.visualflow.dev/examples/react-flow-cosmic-explorer-build-an-interactive-star-and-constellation-explorer-with-react-flow)
+- **Source Code:** [View Source](https://www.visualflow.dev/pricing)
 
 ---
 
-## 7. AI & Visual Programming
+## 8. React Flow Periodic Table – Interactive Chemistry Explorer
+
+<img width="1319" height="709" alt="Screenshot 2026-11-18 at 2 05 30 PM" src="https://github.com/user-attachments/assets/578f4d37-d894-48bd-b4b0-e75a2ef5c03c" />
+
+Make chemistry more interactive with a visual periodic table built using React Flow. Explore chemical elements, discover their relationships, and organize scientific information through an engaging interactive interface.
+
+- **Category:** Scientific Visualization & Education
+- **Technologies:** React, TypeScript, React Flow
+- **Live Demo:** [Explore Periodic Table](https://explore.visualflow.dev/examples/react-flow-periodic-table-make-chemistry-interactive-visual-and-easier-to-explore))
+- **Source Code:** [View Source](https://www.visualflow.dev/pricing)
+
+
+
+## 8. AI & Visual Programming
 
 Create visual interfaces for AI agents, connected tools, and intelligent automation pipelines.
 
