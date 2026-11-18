@@ -180,7 +180,20 @@ Make chemistry more interactive with a visual periodic table built using React F
 - **Live Demo:** [Explore Periodic Table](https://explore.visualflow.dev/examples/react-flow-periodic-table-make-chemistry-interactive-visual-and-easier-to-explore))
 - **Source Code:** [View Source](https://www.visualflow.dev/pricing)
 
+---
 
+## 9. React Flow Circle Studio – Circular Hierarchical Visualization
+
+<img width="1318" height="724" alt="Screenshot 2026-11-18 at 2 08 11 PM" src="https://github.com/user-attachments/assets/9de1529a-ea4e-44f6-bb04-18b236296f4b" />
+
+Transform complex hierarchical data into interactive circular visualizations. Explore relationships between parent and child elements, organize structured information, and navigate interconnected data through a clean circular layout.
+
+- **Category:** Hierarchical Data Visualization
+- **Technologies:** React, TypeScript, React Flow
+- **Live Demo:** [Explore Circle Studio](https://explore.visualflow.dev/examples/react-flow-circle-studio-turn-complex-hierarchical-data-into-interactive-visualizations)
+- **Source Code:** [View Source](https://www.visualflow.dev/pricing)
+
+---
 
 ## 8. AI & Visual Programming
 
