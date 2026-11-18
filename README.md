@@ -208,8 +208,30 @@ Design professional Business Process Model and Notation (BPMN) diagrams using an
 
 ---
 
+## 11. React Flow Draw.io – Visual Diagram Editor
 
+<img width="1317" height="715" alt="Screenshot 2026-11-18 at 2 14 57 PM" src="https://github.com/user-attachments/assets/eb0aae0c-cea8-4b0d-b626-e2c5bfbc9310" />
 
+Build and customize diagrams with a flexible visual editor powered by React Flow. Create connected shapes, arrange diagram elements, and design interactive visual structures for workflows, system architecture, technical documentation, and more.
+
+- **Category:** Creative Editor & Diagramming
+- **Technologies:** React, TypeScript, React Flow
+- **Live Demo:** [Explore Draw.io Editor](https://explore.visualflow.dev/examples/react-flow-draw-io-a-visual-diagram-editor-for-modern-applications)
+- **Source Code:** [View Source](https://www.visualflow.dev/pricing)
+
+---
+
+## 12. React Flow Funnel Studio – Customer Journey Visualization
+
+<img width="1315" height="718" alt="Screenshot 2026-11-18 at 2 16 54 PM" src="https://github.com/user-attachments/assets/cd85cc78-7d47-4ecc-a4f1-9eec08ab600f" />
+
+Build and visualize customer journeys using an interactive funnel editor. Map conversion stages, understand user progression, organize marketing pipelines, and explore how customers move through different stages of a business funnel.
+
+- **Category:** Business Analytics & Funnel Visualization
+- **Technologies:** React, TypeScript, React Flow
+- **Live Demo:** [Explore Funnel Studio](https://explore.visualflow.dev/examples/react-flow-funnel-studio-build-visualise-and-understand-customer-journeys)
+- **Source Code:** [View Source](https://www.visualflow.dev/pricing)
+---
 
 ## 3. Diagrams & Data Visualization
 
@@ -538,11 +560,3 @@ If you find these React Flow examples useful:
 Your support helps make this collection more useful for the React Flow developer community.
 
 ---
-
-\<p align="center">
-&#x20; \<strong>Built for developers who love building visual applications.\</strong>
-&#x20; \<br />
-&#x20; Powered by React Flow. Inspired by VisualFlow.
-&#x20; \<br />\<br />
-&#x20; \<a href="[https://www.visualflow.dev](https://www.visualflow.dev)">Explore VisualFlow →\</a>
-\</p>
