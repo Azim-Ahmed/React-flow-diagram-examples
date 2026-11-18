@@ -450,8 +450,7 @@ Discover more React Flow templates, interactive examples, and visual application
 
 - **Website:** [https://www.visualflow.dev](https://www.visualflow.dev)
 - **Explore Examples:** [https://explore.visualflow.dev](https://explore.visualflow.dev)
-- **GitHub:** YOUR_GITHUB_PROFILE_URL
-- **LinkedIn:** YOUR_LINKEDIN_URL
+- **LinkedIn:** [https://www.linkedin.com/company/visualflow-dev/](https://www.linkedin.com/company/visualflow-dev/)
 
 ---
 
