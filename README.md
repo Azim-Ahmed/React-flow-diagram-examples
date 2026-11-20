@@ -288,55 +288,6 @@ This repository focuses on modern frontend technologies and tools commonly used 
 | D3.js           | Data visualization              |
 | React Hook Form | Form management                 |
 
----
-
-## ⚡ Getting Started
-
-### Prerequisites
-
-Make sure you have installed:
-
-- Node.js (LTS recommended)
-- npm, pnpm, or yarn
-- Basic knowledge of React and TypeScript
-
-### Installation
-
-Clone this repository:
-
-```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
-```
-
-Navigate to the project directory:
-
-```bash
-cd react-flow-examples
-```
-
-Install dependencies:
-
-```bash
-npm install
-```
-
-Start the development server:
-
-```bash
-npm run dev
-```
-
-Open the local development URL displayed in your terminal.
-
-### Install React Flow
-
-```bash
-npm install @xyflow/react
-```
-
-Learn more: [https://reactflow.dev/](https://reactflow.dev/)
-
----
 
 ## 📚 Documentation
 
