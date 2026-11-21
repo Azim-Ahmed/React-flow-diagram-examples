@@ -1,4 +1,4 @@
-# React flow diagram examples
+# React flow diagram example
 Explore React Flow examples, templates,React Diagram Exaples, workflow builders, interactive diagrams, node-based editors, and data visualizations built with React and TypeScript.
 A curated collection of advanced, real-world ReactFlow examples used for automation workflows, chatbot builders, drag‑and‑drop editors, visual node systems, and AI‑powered pipelines.
 
